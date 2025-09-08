@@ -72,8 +72,6 @@
 ---
 
 ### 🐍 Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChouaibTech/ChouaibTech/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+![Snake animation](https://github.com/chouaibtech5/chouaibtech5/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">✨ Made with ❤️ by Chouaib Tech ✨</p>
