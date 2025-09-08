@@ -13,14 +13,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # يولّد الـ SVG
       - uses: Platane/snk@v3
         with:
           github_user_name: chouaibtech5
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      # يدفع الملف لفرع output
+
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
